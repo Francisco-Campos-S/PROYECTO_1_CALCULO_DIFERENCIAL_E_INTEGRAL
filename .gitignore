@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema y archivos temporales
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+
+# Editores
+.vscode/
+.idea/
